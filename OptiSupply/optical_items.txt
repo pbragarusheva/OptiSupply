@@ -1,0 +1,4 @@
+Material: sfswf, Type: Bifocal, Diopter: 4, Thickness: 12, Price: $44.00
+------------------------------------
+Material: fdsdefr, Type: Contact, Diopter: 7.00, Thickness: 3.00, Price: $555.00
+------------------------------------

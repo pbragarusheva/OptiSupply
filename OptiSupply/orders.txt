@@ -1,0 +1,11 @@
+Order ID: 1
+Supplier: Palmenna Bragarusheva, Bullstat: 984638375, Location: Sofia, Phone: 0886631896
+Order date: 
+Total price: $1665.00
+
+Order ID: 2
+Supplier: Genadi Iliev, Bullstat: 332564567, Location: Pleven, Phone: 0896264493
+Order date: 
+Total price: $2863.00
+
+------------------------------------
